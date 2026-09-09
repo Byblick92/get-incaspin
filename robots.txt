@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://get-incaspin.vercel.app/sitemap.xml
+Sitemap: https://get-incaspin-three.vercel.app/sitemap.xml
